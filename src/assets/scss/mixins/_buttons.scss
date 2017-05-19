@@ -1,0 +1,7 @@
+@function set-button-font-color($color) {
+	@if(lightness($color) > 70) {
+		@return $oil;
+	} @else {
+		@return $smoke;
+	}
+} 

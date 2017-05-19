@@ -1,6 +1,7 @@
+@import 'variables';
+@import 'plugins/plugins-dir';
+@import 'mixins/mixins-dir';
 @import 'config';
-@import 'responsive-font';
 @import '../fonts/fontello/css/fontello';
 @import '../fonts/font-awesome-4.7.0/scss/font-awesome';
-@import 'bs-select-override';
-@import 'helper';
+
